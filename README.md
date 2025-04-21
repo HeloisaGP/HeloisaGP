@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello world! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=496EB1&width=435&lines=%E2%9C%B8+Hello+World!++Eu+sou+Helo%C3%ADsa%2C+bem-vindo(a)+ao+meu+perfil!+%E2%9C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=496EB1&width=435&lines=Eu+sou+Helo%C3%ADsa%2C+seja+bem-vindo(a)!+)](https://git.io/typing-svg)
 
 <!--
 **HeloisaGP/HeloisaGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
