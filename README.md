@@ -8,9 +8,9 @@
 
 ###
 
-<div style="text-align: center; margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Eu+sou+Helo%C3%ADsa%2C+seja+bem-vindo(a)!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB4D8&center=true&vCenter=true&width=435&lines=Eu+sou+Helo%C3%ADsa%2C+seja+bem-vindo(a)!"         alt="Typing SVG" />
   </a>
 </div>
 
