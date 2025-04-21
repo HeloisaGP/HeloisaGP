@@ -17,13 +17,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/heloisa-paschoal" target="_blank">
+  <a href="https://www.linkedin.com/in/heloisa-paschoal" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a>
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="mailto:heloisa.gp2001@gmail.com" target="_blank">
+  <a href="mailto:heloisa.gp2001@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a>
