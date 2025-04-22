@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas que já integrei à minha jornada</h3>
+<h3 align="left">🛠 Linguagens e ferramentas que já integrei à minha jornada</h3>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h3 align="left">🚀 Minhas Estatísticas</h3>
+<h3 align="left">🚀 Minhas estatísticas</h3>
 
 ###
 
